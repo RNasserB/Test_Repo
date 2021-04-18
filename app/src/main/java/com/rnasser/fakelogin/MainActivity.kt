@@ -14,5 +14,10 @@ class MainActivity : AppCompatActivity() {
             Toast.makeText(this, "True", Toast.LENGTH_LONG).show()
         }
 
+        val init2 = 2
+        if (init == 2){
+            Toast.makeText(this, "True", Toast.LENGTH_LONG).show()
+        }
+
     }
 }
